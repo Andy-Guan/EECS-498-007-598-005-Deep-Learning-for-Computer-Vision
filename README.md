@@ -20,6 +20,8 @@ Thank you for your answers.
 
 + I completed them with the help of AI.
 
++ If you think it's helpful, please give me a star(I haven't got one yet)
+
 
 # Process
 
@@ -29,3 +31,13 @@ complete in 2026.04.14
 
 + Pytroch Warmup
 + KNN Classifier
+
+
+## A2
+
+complete in 2026.04.21
+
++ SVM Classifier
++ Softmax Classifier
++ Two-layer Net
++ Tuning with visualized website(quite interesting)
