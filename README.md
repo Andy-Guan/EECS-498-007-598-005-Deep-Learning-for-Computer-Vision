@@ -20,7 +20,7 @@ Thank you for your answers.
 
 + I completed them with the help of AI.
 
-+ If you think it's helpful, please give me a star(I haven't got one yet)
++ If you think it's helpful, please give me a star(I haven't got one yet, and perhaps you can cheer me up)
 
 
 # Process
@@ -41,3 +41,12 @@ complete in 2026.04.21
 + Softmax Classifier
 + Two-layer Net
 + Tuning with visualized website(quite interesting)
+
+
+## A3
+
+complete in 2026.04.26
+I utilized AI a lot in this section
+
++ Fully Connected Networks(Linear, ReLU, Linear_ReLU, SGD, SGD with momentum, RMSprop, Adam, Dropout)
++ Convolutional Networks(Conv, MaxPool, Kaiming Initializer, BatchNorm, SpatialBatchNorm)(The backward of the CNN is quite complex and I took a long time to understand it)
