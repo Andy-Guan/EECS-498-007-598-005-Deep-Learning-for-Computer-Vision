@@ -27,7 +27,7 @@ Thank you for your answers.
 
 ## A1
 
-complete in 2026.04.14
+complete on 2026.04.14
 
 + Pytroch Warmup
 + KNN Classifier
@@ -35,7 +35,7 @@ complete in 2026.04.14
 
 ## A2
 
-complete in 2026.04.21
+complete on 2026.04.21
 
 + SVM Classifier
 + Softmax Classifier
@@ -45,8 +45,17 @@ complete in 2026.04.21
 
 ## A3
 
-complete in 2026.04.26
+complete on 2026.04.26
 I utilized AI a lot in this section
 
 + Fully Connected Networks(Linear, ReLU, Linear_ReLU, SGD, SGD with momentum, RMSprop, Adam, Dropout)
 + Convolutional Networks(Conv, MaxPool, Kaiming Initializer, BatchNorm, SpatialBatchNorm)(The backward of the CNN is quite complex and I took a long time to understand it)
+
+
+## A4
+
+complete on 2026.05.11
+
++ FCOS
++ Faster R-CNN(Unfortunately I only trained a model for 1000 iterations owing to the constraint of the GPU)
++ mAP
