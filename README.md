@@ -27,7 +27,7 @@ Thank you for your answers.
 
 ## A1
 
-complete on 2026.04.14
+Completed on 2026.04.14
 
 + Pytroch Warmup
 + KNN Classifier
@@ -35,27 +35,45 @@ complete on 2026.04.14
 
 ## A2
 
-complete on 2026.04.21
+Completed on 2026.04.21
 
 + SVM Classifier
 + Softmax Classifier
 + Two-layer Net
-+ Tuning with visualized website(quite interesting)
++ Tuning with visualized website
+  + quite interesting
 
 
 ## A3
 
-complete on 2026.04.26
+Completed on 2026.04.26
 I utilized AI a lot in this section
 
-+ Fully Connected Networks(Linear, ReLU, Linear_ReLU, SGD, SGD with momentum, RMSprop, Adam, Dropout)
-+ Convolutional Networks(Conv, MaxPool, Kaiming Initializer, BatchNorm, SpatialBatchNorm)(The backward of the CNN is quite complex and I took a long time to understand it)
++ Fully Connected Networks
+  + Linear, ReLU, Linear_ReLU, SGD, SGD with momentum, RMSprop, Adam, Dropout
++ Convolutional Networks
+  + Conv, MaxPool, Kaiming Initializer, BatchNorm, SpatialBatchNorm
+  + The backward of the CNN is quite complex and I spent a long time to understand it
 
 
 ## A4
 
-complete on 2026.05.11
+Completed on 2026.05.11
 
 + FCOS
-+ Faster R-CNN(Unfortunately I only trained a model for 1000 iterations owing to the constraint of the GPU)
++ Faster R-CNN
+  + Unfortunately I only trained a model for 1000 iterations owing to the constraint of the GPU
 + mAP
+
+
+## A5
+
+Completed on 2026.05.15
+
++ RNN
++ LSTM
++ Attention-based LSTM
++ Transformer
+  + I couldn't find the perfect hyperparameters, so my final model achieved around 70% accuracy.
+  + Note: The autograder tests for the Encoder/Decoder blocks and sinusoidal positional encoding seem to have some bugs.
+  + I am very excitedbecause I implemented it from scratch with every detail!
